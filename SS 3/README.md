@@ -1,0 +1,1 @@
+Chương trình mô phỏng hệ thống bán vé Cinema CGV, sử dụng `let`, `const`, các kiểu dữ liệu cơ bản và các cấu trúc `if-else`, `switch-case`, toán tử ba ngôi. Chương trình kiểm tra độ tuổi với phim T18, tính phụ thu theo loại ghế, giảm 20% cho học sinh/sinh viên vào ngày thường và xác định quà tặng cho ghế Couple. Kết quả hóa đơn được hiển thị bằng Template Literals trong Console.

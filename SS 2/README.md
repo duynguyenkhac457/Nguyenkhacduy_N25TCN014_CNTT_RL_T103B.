@@ -1,0 +1,1 @@
+Chương trình ban đầu tính sai vì tính phí phụ thêm cho cả 4 km thay vì chỉ tính phần vượt quá 2 km. Cách sửa là lấy `distanceInKm - 2` để tính phí phát sinh. Với 4 km và mưa lớn, kết quả đúng là **25.200 VNĐ**. Chương trình cũng kiểm tra quãng đường âm và hiển thị kết quả trong Console.
